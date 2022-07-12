@@ -1,0 +1,6 @@
+gopro-downloader.py usr/share/gopro-downloader/
+gopro-downloader.desktop usr/share/gopro-downloader/
+gopro-downloader.desktop usr/share/applications/
+gopro-downloader usr/bin/
+icons usr/share/gopro-downloader/
+

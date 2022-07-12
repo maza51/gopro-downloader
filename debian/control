@@ -1,0 +1,13 @@
+Source: gopro-downloader
+Section: net
+Priority: optional
+Maintainer: Reutov Kirill (maza51) <maza51@mail.ru>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/maza51/gopro-downloader
+
+Package: gopro-downloader
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python (>= 2.7), python-gi
+Description: Application for GoPro Hero 4
+ The application for downloading files from the camera GoPro Hero 4.

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=GoPro Downloader
+Exec=gopro-downloader
+Terminal=false
+Type=Application
+Icon=/usr/share/gopro-downloader/icons/gopro-downloader.png
+Terminal=false
+Type=Application
